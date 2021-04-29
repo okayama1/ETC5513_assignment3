@@ -34,9 +34,10 @@ The data set for this exercise was obtained from the World Bank data base and co
 - Energy use kg of oil_equivalent per capita: Energy use here refers to use of primary energy before transformation to other end-use fuels
 
 
-# Logistics
+# Logistics (very important!)
+
 - Please nominate a person in your group to first access the repository on this link (LINK). Ensure that you are logged in into your GitHub account before using the link. Create a group with your Tutorial 8 group's name.
-- Then the other group members please use the same link (LINK). Please follow the instructions, look for your group and join.
+- Then the other group members please use the same link (LINK). Please follow the instructions, **look for your group and join the group**.
 - If you encounter a 404 error, please go to the top-right corner and sign in into your GitHub account.
 - Once all the group members have joined the group in GitHub classrooms, you can all start working on the project.
 - Each group member must then **clone the repository in your local machine and create a branch to work on your own section**. Please name the branch using your name and surname (**name_surname**).
