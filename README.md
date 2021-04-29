@@ -20,6 +20,7 @@ Work in group of three (same as in Tutorial 8) to create a reproducible and coll
 
 - Ensure that inside your section you have a **figure** and a **table** that are *both referenced in the text*. In addition, add a **paper/book reference** into the text too and **update the bib file** with the reference. Write a paragraph with no more than 100-150 words to discuss your answer to the research question in your section referring to the figure and table.
 - To help you with your data wrangling and figures, have a look at the demo template of week 8 lecture. 
+- In this end, this report will need to have a very short intro (no more than 150 words), three or four sections (depending on how many members are in the team) and a reference section with any relevant information.
 
 # Data set
 
