@@ -16,7 +16,7 @@ This is the repo for ETC5513 Assignment 3 due on Monday May 10 at 1:00pm (Melbou
 
 Work in group of three (same as in Tutorial 8) to create a reproducible and collaborative report where **each team member will**:
 
-**Select two countries from the data set and choose two research questions to answer** 
+**Select two countries from the data set and choose two research questions to answer within their section (please remember that you can use subsections within your section)** 
 
 - Ensure that inside your section you have a **figure** and a **table** that are *both referenced in the text*. In addition, add a **paper/book reference** into the text too and **update the bib file** with the reference. Write a paragraph with no more than 100-150 words to discuss your answer to the research question in your section referring to the figure and table.
 - To help you with your data wrangling and figures, have a look at the demo template of week 8 lecture. 
@@ -38,7 +38,7 @@ The data set for this exercise was obtained from the World Bank data base and co
 - Then the other group members please use the same link (LINK). Please follow the instructions, look for your group and join.
 - If you encounter a 404 error, please go to the top-right corner and sign in into your GitHub account.
 - Once all the group members have joined the group in GitHub classrooms, you can all start working on the project.
-- Each group member should then clone the repository in your local machine and create a branch to work on your own section. Please name the branch using your name and surname (**name_surname**).
+- Each group member must then **clone the repository in your local machine and create a branch to work on your own section**. Please name the branch using your name and surname (**name_surname**).
 - Each group member will work on one section (if there are four of you in the group, please create a new section in the report.Rmd file).
 - Ensure that you stage, commit and push the changes that you are making into your own branch from time to time as you are creating your own section (do not leave it all to the end).
 - While you work on your section, please ensure that you work in your branch and commit and push changes into your **own branch** in the remote repository too. That will minimize conflicts.
@@ -57,7 +57,9 @@ The data set for this exercise was obtained from the World Bank data base and co
 
 # Assignment Submission 
 
-- In Moodle: paste the http of your GitHub repo (**submissions that do not contain this information to reproduce the report will be considered non-reproducible**). Ensure that all your paths are relative to the project folder.
+**Each team member must submit:**
+
+- In Moodle: paste the http of the team GitHub repo (**submissions that do not contain this information to reproduce the report will be considered non-reproducible**). Ensure that all your paths are relative to the project folder.
 - Upload the *Rmd file* of the project.
 - Upload the *pdf file* of the project.
 - **Incomplete submissions (missing any files or information requested in these instructions) will be graded with a 0**
