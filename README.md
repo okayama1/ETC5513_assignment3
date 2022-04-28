@@ -1,6 +1,6 @@
 # Assignment 3
 
-This is the repo for ETC5513 Assignment 3 due on Monday May 10 at 1:00pm (Melbourne time).
+This is the repo for ETC5513 Assignment 3 due on Monday May 9 at 9:30am (Melbourne time).
 Please use the template and data provided in this repo.
 
 
@@ -23,6 +23,8 @@ Work in group of three (same as in Tutorial 8) to create a reproducible and coll
 - To help you with your data wrangling and figures, have a look at the demo template of week 8 lecture. 
 - In this end, this report will need to have a very short intro (no more than 150 words), three or four sections (depending on how many members are in the team) and a reference section with any relevant information.
 
+**While each team member will work on their section. The final report will need to have a combine intro, a combine conclusions and combine references using a bib file.**
+
 # Data set
 
 The data set for this exercise was obtained from the World Bank data base and contains the following variables:
@@ -37,8 +39,8 @@ The data set for this exercise was obtained from the World Bank data base and co
 
 # Logistics (very important!)
 
-- Please nominate a person in your group to first access the repository on this link (https://classroom.github.com/g/o_GH-Ve1). Ensure that you are logged in into your GitHub account before using the link. Create a group with your Tutorial 8 group's name.
-- Then the other group members please use the same link (https://classroom.github.com/g/o_GH-Ve1). Please follow the instructions, **look for your group and join the group**.
+- Please nominate a person in your group to first access the repository on this link (https://classroom.github.com/a/2lMZUBNQ). Ensure that you are logged in into your GitHub account before using the link. Create a group with your Tutorial 8 group's name.
+- Then the other group members please use the same link (https://classroom.github.com/a/2lMZUBNQ). Please follow the instructions, **look for your group and join the group**.
 - If you encounter a 404 error, please go to the top-right corner and sign in into your GitHub account.
 - Once all the group members have joined the group in GitHub classrooms, you can all start working on the project.
 - Each group member must then **clone the repository in your local machine and create a branch to work on your own section**. Please name the branch using your name and surname (**name_surname**).
@@ -52,7 +54,7 @@ The data set for this exercise was obtained from the World Bank data base and co
 
 # Due Date
 
-- Assignment is due on Monday May 10 at 1:00pm (Melbourne time). **Late submissions will not be accepted.**
+- Assignment is due on Monday May 9 at 9:30am (Melbourne time). **Late submissions will not be accepted.**
 - By the due date, all the changes in your repo need to be merged to the master branch.
 - If GitHub repos are modified after the submission date. The assignment will be marked with a 0.
 - GitHub repos that are not reproducible (i.e if the report **cannot** be reproduced from the files in the GitHub repo) will be marked with a 0.
@@ -91,7 +93,7 @@ https://www.monash.edu/students/admin/policies/academic-integrity
 | Table with caption + referenced in report text   |     |
 | Figure with caption + referenced in report text   |     |
 | Successfully included paper/book reference in the bib file and a citation in the report text   |     |
-| Overall report quality   |     |
+| Group Intro and Group Conclusion sections   |     |
 
 
 
