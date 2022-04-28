@@ -93,7 +93,7 @@ https://www.monash.edu/students/admin/policies/academic-integrity
 | Table with caption + referenced in report text   |     |
 | Figure with caption + referenced in report text   |     |
 | Successfully included paper/book reference in the bib file and a citation in the report text   |     |
-| Group Intro and Group Conclusion sections   |     |
+| Intro and Conclusion sections (done collectively by the group joining each member's contribution)   |     |
 
 
 
